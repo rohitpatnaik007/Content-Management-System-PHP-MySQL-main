@@ -1,4 +1,3 @@
-# Content-Management-System-PHP-MySQL-main
 # Content Management System PHP & MySQL
 
 This GitHub repository is a powerful content management system (CMS) that has been designed using PHP and MySQL. The frontend of the project has been crafted using Bootstrap, and it includes a wide range of advanced features, such as CRUD operations for user, post, and comment management, as well as an admin dashboard that provides users with complete control over their website.
